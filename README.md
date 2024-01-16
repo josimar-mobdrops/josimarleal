@@ -5,7 +5,7 @@ Olá, sou Josimar, um apaixonado engenheiro de software e engenheiro de dados qu
 ## 💼 O Que Faço
 
 - Desenvolvimento de aplicações robustas em **Java** e **Python**.
-- Exploração e análise de dados como engenheiro de dados.
+- Ingestão e análise de dados como engenheiro de dados.
 - Utilização eficiente de serviços em nuvem, incluindo **AWS**, **Azure** e **GCP**.
 
 ## ☁️ Experiência em Nuvem
@@ -15,17 +15,20 @@ Ao longo da minha carreira, trabalhei em projetos desafiadores, aproveitando as 
 ## 🚀 Tecnologias Favoritas
 
 - **Linguagens de Programação:** Java, Python
-- **Nuvem:** AWS, Azure, GCP
+- **Nuvem:** GCP, AWS, Azure
 
 ## 🌱 O Que Estou Aprendendo
 
 Atualmente, estou aprimorando minhas habilidades em:
 
-- Kubernetes
+- Integrações com **IA**
 - Machine Learning com Python
 
 ## 📫 Vamos Colaborar?
 
 Sinta-se à vontade para explorar meus repositórios e entre em contato se estiver interessado em colaborar ou discutir ideias. Estou sempre aberto a novos desafios e oportunidades de aprendizado.
+##Contatos
+
+josimar.leal@select.com.br
 
 **Vamos construir algo incrível juntos!** 🚀
